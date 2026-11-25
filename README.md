@@ -13,7 +13,7 @@ To write a program to predict the type of species of the Iris flower using the S
 4. 1. Predict the Iris flower species using the predict() function and display the result.
 
 ## Program:
-```
+```py
 
 import numpy as np
 from sklearn.datasets import load_iris
